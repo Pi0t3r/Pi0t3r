@@ -4,7 +4,7 @@
 
 <p>My skills:</p>
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,sass,bootstrap,tailwindcss, materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,sass,bootstrap,tailwindcss" />
 </div>
 
 
