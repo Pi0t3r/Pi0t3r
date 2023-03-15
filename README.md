@@ -14,5 +14,5 @@
 </div>
 <p>Technologies I plan to learn in the future after mastering the ones I'm learning now:</p>
 <div>
-  <img src="https://skillicons.dev/icons?i=vue,py,nodejs,dj" />
+  <img src="https://skillicons.dev/icons?i=vue,py,nodejs,django" />
 </div>
