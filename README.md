@@ -4,13 +4,13 @@
 
 <p>My skills:</p>
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,sass,bootstrap,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,sass,bootstrap,tailwindcss,typescript" />
 </div>
 
 
 <p>I'm currently learning:</p>
 <div>
-  <img src="https://skillicons.dev/icons?i=react,vite,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,vite" />
 </div>
 <p>Technologies I plan to learn in the future after mastering the ones I am learning now but there is no obstacle to learning other capabilities as well:</p>
 <div>
