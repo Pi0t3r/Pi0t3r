@@ -14,5 +14,5 @@
 </div>
 <p>Technologies I plan to learn in the future after mastering the ones I am learning now but there is no obstacle to learning other capabilities as well:</p>
 <div>
-  <img src="https://skillicons.dev/icons?i=vue,py,nodejs,django" />
+  <img src="https://skillicons.dev/icons?i=angular,py,django" />
 </div>
