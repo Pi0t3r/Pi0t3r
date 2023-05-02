@@ -10,7 +10,7 @@
 
 <p>I'm currently learning:</p>
 <div>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </div>
 <p>Technologies I plan to learn in the future after mastering the ones I am learning now but there is no obstacle to learning other capabilities as well:</p>
 <div>
