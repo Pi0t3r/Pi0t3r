@@ -10,5 +10,5 @@
 
 <p>I'm currently learning:</p>
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs, firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,firebase" />
 </div>
