@@ -6,6 +6,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,git,vite,nextjs,react,materialui,firebase&theme=light)](https://skillicons.dev)
 
-<p>Planned learning</p>
+<p>Planned learning:</p>
 
 [![skills](https://skillicons.dev/icons?i=graphql,django,py&theme=light)](https://skillicons.dev)
