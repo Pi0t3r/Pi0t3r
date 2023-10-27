@@ -2,13 +2,7 @@
 
 <p>I'm a Piotr, a front-end developer passionate about building visually appealing and user-friendly websites and applications. I'm from Cracow area and i have experience with HTML, CSS, Javascript, Git, SCSS, Bootstrap, Tailwind. Currently, I'm learning React, Typescript. My goal is to improve my skills in development and web applications. In addition to programming, I am also interested in automobiles, team sports and cycling.</p>
 
-<p>My skills:</p>
-<div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,sass,bootstrap,tailwindcss,typescript,vite" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,git,vite,nextjs,react,materialui,firebase&theme=light)](https://skillicons.dev)
 
 
-<p>I'm currently learning:</p>
-<div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
-</div>
+[![Planned learning](https://skillicons.dev/icons?i=graphql,django,py&theme=light)](https://skillicons.dev)
