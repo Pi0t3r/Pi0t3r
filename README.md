@@ -8,4 +8,4 @@
 
 <p>Planned learning:</p>
 
-[![skills](https://skillicons.dev/icons?i=graphql,django,py&theme=light)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=express,mongodb,mysql,nodejs,sequelize&theme=light)](https://skillicons.dev)
