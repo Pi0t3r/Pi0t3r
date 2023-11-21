@@ -4,8 +4,8 @@
 
 <p>My current skills:</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,git,vite,nextjs,react,materialui,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,bootstrap,tailwind,git,vite,nextjs,react,materialui,firebase,nodejs,express,mongodb,mysql,sequelize&theme=light)](https://skillicons.dev)
 
 <p>Planned learning:</p>
 
-[![skills](https://skillicons.dev/icons?i=express,mongodb,mysql,nodejs,sequelize&theme=light)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=cs,dotnet&theme=light)](https://skillicons.dev)
